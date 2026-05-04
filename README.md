@@ -62,9 +62,11 @@ Ready to play? Get the latest build here:
 
 ## 📸 Screenshots
 
-| Splash Screen | Level Map | Gameplay |
-| :---: | :---: | :---: |
-| ![Splash](./src/assets/images/Screenshot_20260504-212915.png) | ![Levels](./src/assets/images/Screenshot_20260504-212956.png) | ![Game](./src/assets/images/Screenshot_20260504-213009.png) |
+| Splash Screen | Home Screen | Level Map | Gameplay |
+| :---: | :---: | :---: |:---: |
+|<img src="./src/assets/images/Screenshot_20260504-212915.png" width="250" height="500" />|<img src="./src/assets/images/Screenshot_20260504-212937.png" width="250" height="500" />|<img src="./src/assets/images/Screenshot_20260504-212956.png" width="250" height="500" />|<img src="./src/assets/images/Screenshot_20260504-213009.png" width="250" height="500" />|
+
+---
 
 ---
 
