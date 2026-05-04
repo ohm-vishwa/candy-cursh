@@ -55,7 +55,7 @@ Welcome to the **Candy Crush** clone! This project is a high-performance mobile 
 
 Ready to play? Get the latest build here:
 
-👉 [Download Candy Crush APK/IPA](https://github.com/ohm-vishwa/candy-cursh/releases/download/apk/candy-crush-ohm.apk)
+👉 [Download Candy Crush apk](https://github.com/ohm-vishwa/candy-cursh/releases/download/apk/candy-crush-ohm.apk)
 
 ---
 
