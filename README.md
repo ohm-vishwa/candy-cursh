@@ -31,7 +31,7 @@ Welcome to the **Candy Crush** clone! This project is a high-performance mobile 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/candy-crush.git
+    git clone https://github.com/ohm-vishwa/candy-crush.git
     ```
 2.  **Install dependencies:**
     ```bash
@@ -64,7 +64,7 @@ Ready to play? Get the latest build here:
 
 | Splash Screen | Level Map | Gameplay |
 | :---: | :---: | :---: |
-| ![Splash](https://via.placeholder.com/200x400?text=Splash+Screen) | ![Levels](https://via.placeholder.com/200x400?text=Level+Map) | ![Game](https://via.placeholder.com/200x400?text=Gameplay) |
+| ![Splash](./src/assets/images/Screenshot_20260504-212915.png) | ![Levels](./src/assets/images/Screenshot_20260504-212956.png) | ![Game](./src/assets/images/Screenshot_20260504-213009.png) |
 
 ---
 
