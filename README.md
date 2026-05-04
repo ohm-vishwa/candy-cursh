@@ -55,7 +55,7 @@ Welcome to the **Candy Crush** clone! This project is a high-performance mobile 
 
 Ready to play? Get the latest build here:
 
-[![Download Icon](https://img.icons8.com/sf-black-filled/64/737373/download.png)](https://your-download-link.com)
+<img src="./src/assets/images/icons8-download-64.png" width="32" height="32" />
 **[Download Candy Crush APK/IPA](#)**
 
 ---
