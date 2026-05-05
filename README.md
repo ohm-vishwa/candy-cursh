@@ -63,7 +63,7 @@ Ready to play? Get the latest build here:
 
 
 <img src="./src/assets/images/Screenshot_20260504-212915.png" width="150" height="400" /><img src="./src/assets/images/Screenshot_20260504-212937.png" width="150" height="400" />
-<img src="./src/assets/images/Screenshot_20260504-212956.png" width="150" height="400" /><img src="./src/assets/images/Screenshot_20260504-214009.png" width="150" height="400" />
+<img src="./src/assets/images/Screenshot_20260504-212956.png" width="150" height="400" /><img src="./src/assets/images/Screenshot_20260504-213009.png" width="150" height="400" />
 
 
 ---
