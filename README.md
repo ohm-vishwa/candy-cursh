@@ -50,6 +50,60 @@ Welcome to the **Candy Crush** clone! This project is a high-performance mobile 
     ```
 
 ---
+### Folder Structure
+```bash
+src
+├── assets....
+├── components
+│   ├── game
+│   │   ├── GameFooter.tsx
+│   │   ├── GameHeader.tsx
+│   │   └── GameTile.tsx
+│   ├── gamelogic
+│   │   ├── gridUtils.tsx
+│   │   └── useGameLogic.tsx
+│   └── ui
+│       ├── Footer.tsx
+│       └── ScalePress.tsx
+├── navigation
+│   ├── Navigation.tsx
+│   └── SoundContext.tsxsrc ➤ tree                                                                                                                                                     git:main
+.
+├── app
+│   └── QuizScreen.tsx
+├── components
+│   ├── AnswerOption.tsx
+│   ├── Card.tsx
+│   ├── CustomButton.tsx
+│   └── QuestionCard.tsx
+├── hooks
+│   └── useTimer.tsx
+├── provider
+│   └── QuizProvider.tsx
+├── questions.ts
+├── store
+└── types.tsx
+├── screens
+│   ├── GameScreen.tsx
+│   ├── HomeScreen.tsx
+│   ├── index.js
+│   ├── LevelScreen.tsx
+│   └── SplashScreen.tsx
+├── state
+│   ├── storage.tsx
+│   └── useLevelStore.tsx
+├── styles
+│   ├── commonStyles.tsx
+│   └── levelStyles.tsx
+├── type.dt.tsx
+├── types.tsx
+└── utils
+    ├── Constants.tsx
+    ├── data.tsx
+    ├── NavigationUtil.tsx
+    └── SoundUtility.tsx
+```
+---
 
 ## 📥 Download App
 
